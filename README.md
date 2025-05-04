@@ -48,7 +48,7 @@ A slicer lets the user choose any employee by ID.
    - Satisfaction and workdays side-by-side
    - Fully interactive via slicer
 
-![Export_Page_1](https://github.com/user-attachments/assets/b0676826-d089-4f85-8c36-b1b02d3e3d90)
+![PowerBI_Export_1](https://github.com/user-attachments/assets/6a67c526-1d16-4224-bace-881668cff585)
 
 ---
 
@@ -82,7 +82,7 @@ A **line chart** shows the number of jobs waiting on each day during the season.
 
 4. Added dynamic titles and tooltips for context.
 
-![Export_Page_2](https://github.com/user-attachments/assets/20ed8c05-6bde-4e24-8555-92d7f0825b6b)
+![PowerBI_Export_2](https://github.com/user-attachments/assets/e4b53375-2a0e-44a4-9f56-4a7485951d79)
 
 ---
 
