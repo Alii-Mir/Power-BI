@@ -1,14 +1,7 @@
-Readme file
+- The Power BI file `PowerBI.pbix` is available on the project main page.
 
+- There is also a link to a short video for the full project presentation: [Project Overview Presentation](https://drive.google.com/file/d/1H7lKETwM7dhWyTVBouzA3vWHaI3zIuHj/view)
 
-This is a link to a video for the project presentation: https://drive.google.com/file/d/1H7lKETwM7dhWyTVBouzA3vWHaI3zIuHj/view
-
-
-Image 1:
-![Export_Page_1](https://github.com/user-attachments/assets/b0676826-d089-4f85-8c36-b1b02d3e3d90)
-
-Image2:
-![Export_Page_2](https://github.com/user-attachments/assets/20ed8c05-6bde-4e24-8555-92d7f0825b6b)
 ___
 
 # 🌿 Landscaping Company Data Analysis Dashboard (Power BI)
@@ -55,6 +48,8 @@ A slicer lets the user choose any employee by ID.
    - Satisfaction and workdays side-by-side
    - Fully interactive via slicer
 
+![Export_Page_1](https://github.com/user-attachments/assets/b0676826-d089-4f85-8c36-b1b02d3e3d90)
+
 ---
 
 ## ✅ Sub-Goal 2: Job Scheduling & Resource Allocation
@@ -86,6 +81,8 @@ A **line chart** shows the number of jobs waiting on each day during the season.
    - Slicer: `job_type` (with "Select All" enabled)
 
 4. Added dynamic titles and tooltips for context.
+
+![Export_Page_2](https://github.com/user-attachments/assets/20ed8c05-6bde-4e24-8555-92d7f0825b6b)
 
 ---
 
