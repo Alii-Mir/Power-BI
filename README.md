@@ -2,6 +2,7 @@
 
 - There is also a link to a short video for the full project presentation: [Project Overview Presentation](https://drive.google.com/file/d/1H7lKETwM7dhWyTVBouzA3vWHaI3zIuHj/view)
 
+- We have done a full analysis (4 major analyses) through Python implementations.
 ___
 
 # 🌿 Business Data Analysis Dashboard (Power BI)
