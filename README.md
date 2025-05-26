@@ -4,7 +4,7 @@
 
 ___
 
-# 🌿 Landscaping Company Data Analysis Dashboard (Power BI)
+# 🌿 Business Data Analysis Dashboard (Power BI)
 
 This Power BI project was developed for a landscaping company to help identify areas for operational improvement. The company provided data on jobs, employees, and job assignments through three CSV files:
 
