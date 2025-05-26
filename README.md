@@ -2,7 +2,7 @@
 
 - There is also a link to a short video for the full project presentation: [Project Overview Presentation](https://drive.google.com/file/d/1H7lKETwM7dhWyTVBouzA3vWHaI3zIuHj/view)
 
-- We have done a full analysis (4 major analyses) through Python implementations (`python_code` folder).
+- We have done a full analysis (4 major analyses) through Python implementations (`python_code` folder and `plots` folder showing all 4 output visuals).
 ___
 
 # 🌿 Business Data Analysis Dashboard (Power BI)
